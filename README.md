@@ -1,4 +1,4 @@
-pytorch implementation of basic kmeans algorithm with gpu support(lloyd method with forgy initialization)
+pytorch implementation of basic kmeans algorithm(lloyd method with forgy initialization) with gpu support
 
 usage:
 ```python
