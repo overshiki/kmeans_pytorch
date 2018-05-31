@@ -1,1 +1,2 @@
-*.rb linguist-language=python
+*.py linguist-language=python
+*.ipynb linguist-language=python
