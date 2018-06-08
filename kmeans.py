@@ -1,6 +1,6 @@
 import torch
 import numpy as np
-from pairwise import pairwise_distance
+from kmeans_pytorch.pairwise import pairwise_distance
 
 def forgy(X, n_clusters):
 	_len = len(X)
